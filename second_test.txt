@@ -1,3 +1,7 @@
 second texttt 
 modification after pushing in the server 
+<<<<<<< HEAD
 modification in master Branch, not in develop test 
+=======
+modification after stashing the third file in ddevlop Branch 
+>>>>>>> Develop
